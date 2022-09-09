@@ -4,4 +4,4 @@ num2 = 10
 def addition():
     return num1 + num2
 
-print(addition())
+print('Hello')
